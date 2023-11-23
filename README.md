@@ -3,6 +3,6 @@
 ## Ambientes dockerizados
 
 
-### Acessando banco
+### Acessando banco mysql
  - `docker exec -it my-mysql-container bash`
  - `mysql -u seu_usuario -p`
